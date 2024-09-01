@@ -1,0 +1,27 @@
+# Node modules
+finki-calc-backend/node_modules/
+finki-calc-frontend/node_modules/
+
+# Build output
+finki-calc-frontend/dist/
+
+# Editor directories and files
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
